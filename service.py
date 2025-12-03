@@ -1,0 +1,9 @@
+import asyncio
+from db import accounts
+
+
+async def cerate_customer_account(customer_id:str):
+    if customer_id in accounts:
+        return False
+    accounts[customer_id] = 0.0
+    return True
