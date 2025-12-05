@@ -1,0 +1,50 @@
+
+✅ MVP = Minimum Viable Product
+👉 Definition (Simple Language)
+
+An MVP is the smallest and simplest version of a product that has just enough features for users to try it and give feedback.
+
+You don't build the full product.
+You build the basic working version first.
+
+🎯 Why do we use MVP?
+
+Because:
+
+✔️ Save time
+✔️ Save money
+✔️ Test the idea early
+✔️ Know what users actually want
+✔️ Improve based on real feedback 
+
+ 
+ 
+🏢 Interview Answer (Best 1–2 lines)
+
+MVP stands for Minimum Viable Product.
+ It is a basic,
+  functional version of a product
+   with only essential features, 
+   built to test the idea quickly,
+    get user feedback, 
+    and improve before
+     creating the full version.
+
+     🍕 Analogy
+
+You want to build a car.
+
+You don't give the user:
+
+❌ Engine
+❌ Wheels
+❌ Seats separately
+
+Instead you give:
+
+✔️ A skateboard → to test basic movement
+✔️ Then cycle
+✔️ Then bike
+✔️ Then car
+
+Each step is usable.
