@@ -33,7 +33,7 @@ async def fund_amount(data:FundAccountRequest):
         }
     else:
         return{
-            "messege":"we can,t"
+            "messege":"we can't"
         }
 
 
