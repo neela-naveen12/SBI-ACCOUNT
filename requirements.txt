@@ -1,3 +1,17 @@
-
+name:SBI-BANK-ACCOUNT
 fastapi
 uvicorn
+
+Prefix: C:\Users\neela\OneDrive\Desktop
+
+
+conda creation
+
+1. conda create -n "foldername"
+2. conda env list => list of environmnets
+3. conda activate "env name"
+check path go to foldername
+->ondrive/desktop/sbi-bank-account
+4. pip install uvicorn
+5. pip install fastapi
+6. uvivorn main:app --reload
