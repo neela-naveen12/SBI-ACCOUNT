@@ -1,3 +1,5 @@
 
 1. Exception Handling
 2. logging -> log messeges, log Errrors, Log - info, log debug
+3. organising the code and folders 
+4. naming conventions
